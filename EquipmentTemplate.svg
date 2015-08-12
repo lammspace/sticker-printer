@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="673.22833"
+   height="209.05511"
+   id="svg2997"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="ReworkStation.svg">
+  <defs
+     id="defs2999" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     pageopacity="1.0"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="374.11722"
+     inkscape:cy="132.15633"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="682"
+     inkscape:window-height="702"
+     inkscape:window-x="683"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3002">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-843.30707)">
+     <rect
+        style="fill:#ffffff;fill-opacity:1;stroke:none"
+        id="rect2999"
+        width="673.22833"
+        height="209.05511"
+        x="0"
+        y="843.30707" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3121"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3123"><rect
+           id="rect3125"
+           width="397"
+           height="50"
+           x="260"
+           y="-78.944885" /></flowRegion><flowPara
+         id="flowPara3127"></flowPara></flowRoot>    <g
+       id="g3141"
+       transform="translate(0,-2)">
+      <g
+         id="g3160"
+         transform="translate(0,2)">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="431.43759"
+           y="899.36218"
+           id="text3105"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3107"
+             x="431.43759"
+             y="899.36218"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold">{EQUIP_NAME}</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="431.89633"
+           y="1026.0692"
+           id="text3109"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3111"
+             x="431.89633"
+             y="1026.0692"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">{EQUIP_URL}</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+           x="431.94189"
+           y="961.55371"
+           id="text3113"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3115"
+             x="431.94189"
+             y="961.55371"
+             style="font-size:22px">{EQUIP_SOURCE}</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+           x="430.74597"
+           y="928.46295"
+           id="text3117"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3119"
+             x="430.74597"
+             y="928.46295">Hackspace Equipment</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="431.4382"
+           y="998.22644"
+           id="text3129"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3131"
+             x="431.4382"
+             y="998.22644"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;text-anchor:middle;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Semi-Bold">{EQUIP_INDUCTION}</tspan></text>
+      </g>
+    </g>
+    <image
+       id="rect3443"
+       width="165"
+       height="165"
+       x="25"
+       y="866.36218"
+       xlink:href="data:image/png;base64,{EQUIP_QR}" />
+  </g>
+</svg>
